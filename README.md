@@ -6,7 +6,6 @@
 <p align="center">
 <img src="/Alert.png"  width="200"/>
 <img src="/Feed.png" width="200"/>
-<img src="/SignIn/SignUp.png" width="200"/>
 <img src="/SnapView.png" width="200"/>
 
 
