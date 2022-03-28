@@ -19,7 +19,7 @@
 
 ## Requirements
 - ✅ Use Models
-- ✅ Use pod 'ImageSlideshow'
+- ✅ Use Slider
 - ✅ Use Clases and Struct 
 - ✅ Use Mapkit 
 - ✅ Segue
